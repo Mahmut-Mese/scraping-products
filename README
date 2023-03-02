@@ -1,0 +1,10 @@
+ Backend is NodeJS
+ Frontend is React 
+ Test framework is Cypress 
+
+1- Npm install
+2- Npm Start 
+
+ * Npm start will start node, react, unit and e2e tests,
+ * Tests can be seen in cypress/videos and vscode console logs,
+ * Run "npm run test-headed" to visually see test steps in Cypress GUI
